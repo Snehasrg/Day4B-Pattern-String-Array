@@ -1,3 +1,13 @@
 ﻿using Pattern;
 
-Console.WriteLine("Welcome to Pattern Problem.");
+namespace Pattern
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            DuplicateElementinArray.CheckDuplicate();
+
+        }
+    }
+}
