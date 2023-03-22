@@ -6,7 +6,7 @@ namespace Pattern
     {
         public static void Main(string[] args)
         {
-            ReverseStar.DisplayStar();
+            HollowSquarePattern.PrintPattern();
 
         }
     }
