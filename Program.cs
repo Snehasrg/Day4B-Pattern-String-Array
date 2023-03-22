@@ -6,9 +6,8 @@ namespace Pattern
     {
         public static void Main(string[] args)
         {
+            MaxMinElement.FindMaxMin();
            
-            UniqueElement.UniqueIntElement();
-
         }
     }
 }
