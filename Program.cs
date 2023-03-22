@@ -6,8 +6,7 @@ namespace Pattern
     {
         public static void Main(string[] args)
         {
-            ReverseLetterofString.CheckReverseWord();
-
+             SumofAllDigit.CalculateSum();
 
         }
     }
