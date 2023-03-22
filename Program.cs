@@ -6,7 +6,8 @@ namespace Pattern
     {
         public static void Main(string[] args)
         {
-            DuplicateElementinArray.CheckDuplicate();
+           
+            UniqueElement.UniqueIntElement();
 
         }
     }
