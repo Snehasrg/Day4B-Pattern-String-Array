@@ -39,6 +39,9 @@ namespace Pattern
                     case 9:
                     SumofEachRowofMatrix.DisplayMatrix();
                     break;
+                    default: 
+                    Console.WriteLine("Please enter correct number");
+                    break;
              }
         }
     }
