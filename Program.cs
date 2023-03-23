@@ -19,7 +19,7 @@ namespace Pattern
                     UniqueElement.UniqueIntElement();
                     break;
                     case 3:            
-                    //FrequencyofElement.Checkfrequency();
+                    FrequencyofElement.CheckFrequency();
                     break; 
                     case 4:
                     MaxMinElement.FindMaxMin();
